@@ -1,1 +1,5 @@
 wordlist1.txt
+wordlist2.txt
+wordlist4.txt
+wordlist3.txt
+wordlist6.txt

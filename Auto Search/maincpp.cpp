@@ -58,7 +58,7 @@ void simulateMouseClick(int x, int y) {
 }
 
 int main() {
-    std::vector<std::string> fileList = { "wordlist1.txt", "wordlist2.txt", /* add more file paths as needed */ };
+    std::vector<std::string> fileList = { "wordlist1.txt", "wordlist2.txt", "wordlist3.txt", "wordlist4.txt", "wordlist5.txt", "wordlist6.txt", "wordlist7.txt" };
     std::string usedFilePath = "used_wordlists.txt";
     std::string chromeCommand = getChromeCommand();
 
